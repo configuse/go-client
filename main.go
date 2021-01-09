@@ -13,7 +13,7 @@ import (
 	log "github.com/sirupsen/logrus"
 )
 
-const BaseUrl = "https://vena-admin.herokuapp.com"
+const BaseUrl = "https://configuse.tech/api"
 
 type Settings struct {
 	url                     string
