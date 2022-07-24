@@ -13,7 +13,7 @@ import (
 	log "github.com/sirupsen/logrus"
 )
 
-const BaseUrl = "https://configuse.tech/api"
+const BaseUrl = "https://api.configuse.dev"
 
 type Settings struct {
 	url                     string
